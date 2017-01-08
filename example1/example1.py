@@ -1,4 +1,3 @@
-python
 # getting-started-with-docker/example1/example1.py
 from itertools import islice
 

@@ -1,2 +1,2 @@
-# requirements.txt
+# getting-started-with-docker/example1/requirements.txt
 click==6.7
