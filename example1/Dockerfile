@@ -1,4 +1,4 @@
-# example1/Dockerfile
+# getting-started-with-docker/example1/Dockerfile
 FROM python:3.6-alpine
 
 # Install python dependencies
